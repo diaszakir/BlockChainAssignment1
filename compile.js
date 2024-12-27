@@ -2,7 +2,7 @@ const solc = require('solc');
 const path = require('path');
 const fs = require('fs');
 
-const contractName = 'MyContract';
+const contractName = 'EtherWallet';
 const fileName = `${contractName}.sol`;
 
 // Read the Solidity source code from the file system
