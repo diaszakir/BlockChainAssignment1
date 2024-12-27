@@ -9,5 +9,8 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "solc": "^0.8.28"
+  }
 }
